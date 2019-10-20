@@ -1,0 +1,3 @@
+exports.theCurrentDate = () => {
+    return Date();
+};
