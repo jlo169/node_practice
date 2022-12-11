@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/jlo169/node_practice#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
